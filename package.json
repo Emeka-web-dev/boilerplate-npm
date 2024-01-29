@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Chukwu Emeka Rex",
+  "author": "Emeka Chukwu Rex",
   "dependencies": {
     "express": "^4.14.0"
   },
